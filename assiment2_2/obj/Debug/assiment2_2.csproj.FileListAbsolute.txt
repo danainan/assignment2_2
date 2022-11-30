@@ -1,0 +1,11 @@
+D:\imageProcessing\assiment2_2\assiment2_2\bin\Debug\assiment2_2.exe.config
+D:\imageProcessing\assiment2_2\assiment2_2\bin\Debug\assiment2_2.exe
+D:\imageProcessing\assiment2_2\assiment2_2\bin\Debug\assiment2_2.pdb
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.csproj.AssemblyReference.cache
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.csproj.SuggestedBindingRedirects.cache
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.Form1.resources
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.Properties.Resources.resources
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.csproj.GenerateResource.cache
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.csproj.CoreCompileInputs.cache
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.exe
+D:\imageProcessing\assiment2_2\assiment2_2\obj\Debug\assiment2_2.pdb
